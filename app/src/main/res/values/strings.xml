@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExBDAdapter</string>
+    <string name="app_logo">Starbucks Café</string>
+    <string-array name="options">
+        <item>Cafés</item>
+        <item>Comidas</item>
+        <item>Store</item>
+    </string-array>
+    <string name="favorite">Favorito</string>
+    <string name="favorites">Seus favoritos</string>
+</resources>
